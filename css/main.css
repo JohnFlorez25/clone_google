@@ -20,7 +20,7 @@ header nav {
     justify-content: flex-end;
 }
 
-.nav-right-section {
+header nav .nav-right-section {
     /* comentarios */
     width: 250px;
     height: auto;
@@ -30,7 +30,7 @@ header nav {
     align-items: center;
 }
 
-.nav-right-section a {
+nav .nav-right-section a {
     margin-right: 10px;
     color: rgba(0,0,0,0.87);
 }
